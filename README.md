@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Developer Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Developer Banner" width="80%" />
 </p><h1 align="center">Hi 👋, I'm Abdul Rehman Baig</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3><p align="center">  
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&lines=Welcome+to+my+GitHub+profile!;I'm+a+Frontend+Developer;Currently+exploring+MERN+Stack+%26+Data+Science" alt="Typing SVG" />  
@@ -76,11 +76,14 @@
 
 ---
 
+
 ## 💥 Top Projects:
 
-- *[Project 1 Name](https://github.com/abdulrehmanbaig384/project1)* – Brief description of what the project does.
-- *[Project 2 Name](https://github.com/abdulrehmanbaig384/project2)* – Brief description of what the project does.
-- *[Project 3 Name](https://github.com/abdulrehmanbaig384/project3)* – Brief description of what the project does.
+- *[Currency Converter](https://github.com/AbdulRehmanBaig384/Foreign-Exchange-Converter)* – A sleek and user-friendly web application that allows users to easily convert currencies in real-time. It fetches the latest exchange rates and provides a seamless conversion experience.
+  
+- *[Positivus Website](https://github.com/AbdulRehmanBaig384/Positivus-Website)* – A modern and visually appealing website designed for Positivus, focusing on promoting positivity, mental well-being, and self-improvement through interactive features and content.
+  
+- *[Calculator](https://github.com/AbdulRehmanBaig384/Calculator)* – A responsive, intuitive calculator web app that supports basic mathematical operations. Built to be lightweight and functional, it features a clean interface for easy use.
 
 ---
 
