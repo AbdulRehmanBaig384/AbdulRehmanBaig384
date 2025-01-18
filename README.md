@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abdul Rehman Baig</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate frontend developer from Pakistan</h3><p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=abdulrehmanbaig384&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrehmanbaig384" /> 
+</p><p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdulrehmanbaig384&margin-w=15&margin-h=15&column=8&theme=radical" alt="abdulrehmanbaig384" />
+</p>
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrehmanbaig384&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrehmanbaig384" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulrehmanbaig384" alt="abdulrehmanbaig384" /></a> </p>
 
 - 🔭 I’m currently working on **JavaScript-based Data Structure. and Algorithms(DSA)s**
 
