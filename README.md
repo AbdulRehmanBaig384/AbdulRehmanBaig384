@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif " alt="Developer Banner" width="50%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="Developer Banner" width="50%" />
 </p><h1 align="center">Hi 👋, I'm Abdul Rehman Baig</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3><p align="center">  
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&lines=Welcome+to+my+GitHub+profile!;I'm+a+Frontend+Developer;Currently+exploring+MERN+Stack+%26+Data+Science" alt="Typing SVG" />  
