@@ -1,18 +1,26 @@
+---
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="Developer Banner" width="50%" />
-</p><h1 align="center">Hi 👋, I'm Abdul Rehman Baig</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3><p align="center">  
+</p>
+
+<h1 align="center">Hi 👋, I'm Abdul Rehman Baig</h1>
+<h3 align="center">A passionate frontend developer from Pakistan</h3>
+
+<p align="center">  
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&lines=Welcome+to+my+GitHub+profile!;I'm+a+Frontend+Developer;Currently+exploring+MERN+Stack+%26+Data+Science" alt="Typing SVG" />  
 </p>
+
+---
 
 ## 🎯 About Me:
 
 - 🔭 I’m currently working on *JavaScript-based Data Structures and Algorithms (DSA)*.
-- 🌱 I’m learning *MERN Stack, **Data Science, and **Software Engineering Concepts*.
+- 🌱 I’m learning *MERN Stack, Data Science, and Software Engineering Concepts*.
 - 👯 I’m looking to collaborate on *Data Science* and *MERN Stack* projects.
 - 🤝 I’m open to building *advanced MERN Stack* applications.
-- 💬 Ask me about *React, **Node.js, and **DSA in JavaScript*.
+- 💬 Ask me about *React, Node.js, and DSA in JavaScript*.
 - 📫 Reach me at *rehmanbaig456@gmail.com*.
+- ⚡ Fun fact: I love solving complex problems and turning them into elegant solutions.
 
 ---
 
@@ -51,6 +59,10 @@
   <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
   <a href="https://flutter.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/></a>
 </p>
 
 ---
@@ -66,18 +78,21 @@
 ## 📬 Connect with Me:
 
 <p align="center">
-  <a href="www.linkedin.com/in/
-abdul-rehman-baig-"
- target="blank">
+  <a href="https://www.linkedin.com/in/abdul-rehman-baig-" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="rehmanbaig456@gmail.com">
+  <a href="mailto:rehmanbaig456@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://twitter.com/yourusername" target="blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://medium.com/@yourusername" target="blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 </p>
 
 ---
-
 
 ## 💥 Top Projects:
 
@@ -92,13 +107,52 @@ abdul-rehman-baig-"
 ## 📚 Learning Path:
 
 - *MERN Stack*: Dive into MongoDB, Express.js, React, and Node.js for full-stack development.
-- *Data Science*: Learn machine learning algorithms and Python libraries like Pandas and NumPy.
+- *Data Science*: Learn machine learning algorithms and Python libraries like Pandas, NumPy, and Scikit-learn.
 - *JavaScript Algorithms*: Focus on problem-solving techniques and data structures in JavaScript.
+- *DevOps*: Explore Docker, Kubernetes, and CI/CD pipelines for efficient deployment.
 
 ---
 
-> "The best way to predict the future is to create it." – *Abraham Lincoln*
+## 🎨 Design Tools:
+
+<p align="center">
+  <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/></a>
+  <a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="Adobe XD" width="40" height="40"/></a>
+  <a href="https://www.photoshop.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/></a>
+</p>
 
 ---
 
-Feel free to explore my repositories, contribute, or contact me with any exciting projects you'd like to collaborate on! 🚀
+## 📝 Blog Posts:
+
+- *[How to Build a Real-Time Currency Converter with React](https://medium.com/@yourusername/how-to-build-a-real-time-currency-converter-with-react-1234567890)*
+- *[Getting Started with Data Science: A Beginner's Guide](https://medium.com/@yourusername/getting-started-with-data-science-a-beginners-guide-1234567890)*
+- *[Mastering JavaScript Algorithms: Tips and Tricks](https://medium.com/@yourusername/mastering-javascript-algorithms-tips-and-tricks-1234567890)*
+
+---
+
+## 🏆 Certifications:
+
+- *Full Stack Web Development with MERN* – Coursera
+- *Data Science Specialization* – edX
+- *JavaScript Algorithms and Data Structures* – freeCodeCamp
+
+---
+
+> "The best way to predict the future is to create it." – Abraham Lincoln
+
+---
+
+Feel free to explore my repositories, contribute, or contact me with any exciting projects you'd like to collaborate on! 🚀
+
+---
+
+### 🔗 Visitor Count:
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/abdulrehmanbaig384/count.svg" alt="Visitor Count" />
+</p>
+
+---
+
+This version includes additional sections like *Design Tools, **Blog Posts, **Certifications, and a **Visitor Count* feature to make your profile more dynamic and engaging. You can further customize it based on your preferences! 🚀
