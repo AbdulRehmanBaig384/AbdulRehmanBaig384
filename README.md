@@ -48,6 +48,23 @@
 
 ---
 
+## 🚨 *GitHub Activity Graph*
+markdown
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdulrehmanbaig384&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+---
+
+### 🐍 *GitHub Contribution Snake*
+markdown
+
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+
+![Contribution Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg )
+
+---
+
+
 ## 🛠 Languages and Tools:
 
 <p align="center">
