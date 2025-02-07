@@ -126,7 +126,6 @@ markdown
 - *MERN Stack*: Dive into MongoDB, Express.js, React, and Node.js for full-stack development.
 - *Data Science*: Learn machine learning algorithms and Python libraries like Pandas, NumPy, and Scikit-learn.
 - *JavaScript Algorithms*: Focus on problem-solving techniques and data structures in JavaScript.
-- *DevOps*: Explore Docker, Kubernetes, and CI/CD pipelines for efficient deployment.
 
 ---
 
@@ -172,4 +171,4 @@ Feel free to explore my repositories, contribute, or contact me with any excitin
 
 ---
 
-This version includes additional sections like *Design Tools, **Blog Posts, **Certifications, and a **Visitor Count* feature to make your profile more dynamic and engaging. You can further customize it based on your preferences! 🚀
+
