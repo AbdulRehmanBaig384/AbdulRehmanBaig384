@@ -14,11 +14,11 @@
 
 ## 🎯 About Me:
 
-- 🔭 I’m currently working on *JavaScript-based Data Structures and Algorithms (DSA)*.
+- 🔭 I’m currently working on *C++-based Data Structures and Algorithms (DSA)*.
 - 🌱 I’m learning *MERN Stack, Data Science, and Software Engineering Concepts*.
 - 👯 I’m looking to collaborate on *Data Science* and *MERN Stack* projects.
 - 🤝 I’m open to building *advanced MERN Stack* applications.
-- 💬 Ask me about *React, Node.js, and DSA in JavaScript*.
+- 💬 Ask me about *React, Node.js, and DSA in C++*.
 - 📫 Reach me at *rehmanbaig456@gmail.com*.
 - ⚡ Fun fact: I love solving complex problems and turning them into elegant solutions.
 
@@ -150,8 +150,8 @@ markdown
 ## 🏆 Certifications:
 
 - *Full Stack Web Development with MERN* – Coursera
-- *Data Science Specialization* – edX
-- *JavaScript Algorithms and Data Structures* – freeCodeCamp
+- *Data Science Specialization* – NED Academy
+- C++ Algorithms and Data Structures* – freeCodeCamp
 
 ---
 
