@@ -1,4 +1,3 @@
----
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="Developer Banner" width="50%" />
 </p>
@@ -10,8 +9,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&lines=🚀+Welcome+to+My+GitHub!;🔥+MERN+Stack+Developer;💻+DSA+in+C%2B%2B;📊+Data+Science+Learner;🎯+Building+Awesome+Projects" alt="Typing SVG" />
 </p>
 
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
----
 
 ## 🎯 About Me:
 
@@ -23,7 +23,9 @@
 - 📫 Reach me at *rehmanbaig456@gmail.com*.
 - ⚡ Fun fact: I love solving complex problems and turning them into elegant solutions.
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 
 ## 🌟 GitHub Achievements:
 
@@ -31,7 +33,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=abdulrehmanbaig384&theme=radical&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
 </p>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## 📊 GitHub Stats:
 
@@ -46,15 +49,21 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrehmanbaig384&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulrehmanbaig384&theme=radical" alt="Profile Details" />
+</div>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 
 ## 🚨 *GitHub Activity Graph*
 markdown
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdulrehmanbaig384&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ### 🐍 *GitHub Contribution Snake*
 markdown
@@ -63,12 +72,8 @@ markdown
 
 ![Contribution Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg )
 
----
-
-Here's your updated Tech Stack & Tools section:
-
-
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 🛠 Tech Stack & Tools
 
@@ -102,7 +107,8 @@ Here's your updated Tech Stack & Tools section:
 
 
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## 🚀 Fun Features:
 
@@ -110,7 +116,8 @@ Here's your updated Tech Stack & Tools section:
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="GitHub Quotes" />
 </p>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## 📬 Connect with Me:
 
@@ -129,7 +136,8 @@ Here's your updated Tech Stack & Tools section:
   </a>
 </p>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## 💥 Top Projects:
 
@@ -139,7 +147,8 @@ Here's your updated Tech Stack & Tools section:
   
 - *[Calculator](https://github.com/AbdulRehmanBaig384/Calculator)* – A responsive, intuitive calculator web app that supports basic mathematical operations. Built to be lightweight and functional, it features a clean interface for easy use.
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## 📚 Learning Path:
 
@@ -147,7 +156,8 @@ Here's your updated Tech Stack & Tools section:
 - *Data Science*: Learn machine learning algorithms and Python libraries like Pandas, NumPy, and Scikit-learn.
 - *Data Structure Algorithms*: Focus on problem-solving techniques and data structures in C++.
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## 🎨 Design Tools:
 
@@ -157,7 +167,8 @@ Here's your updated Tech Stack & Tools section:
   <a href="https://www.photoshop.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/></a>
 </p>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## 📝 Blog Posts:
 
@@ -165,7 +176,8 @@ Here's your updated Tech Stack & Tools section:
 - *[Getting Started with Data Science: A Beginner's Guide](https://medium.com/@yourusername/getting-started-with-data-science-a-beginners-guide-1234567890)*
 - *[Mastering JavaScript Algorithms: Tips and Tricks](https://medium.com/@yourusername/mastering-javascript-algorithms-tips-and-tricks-1234567890)*
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## 🏆 Certifications:
 
@@ -173,15 +185,18 @@ Here's your updated Tech Stack & Tools section:
 - *Data Science Specialization* – NED Academy
 - C++ Algorithms and Data Structures* – freeCodeCamp
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 > "The best way to predict the future is to create it." – Abraham Lincoln
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 Feel free to explore my repositories, contribute, or contact me with any exciting projects you'd like to collaborate on! 🚀
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ### 🔗 Visitor Count:
 
@@ -189,6 +204,7 @@ Feel free to explore my repositories, contribute, or contact me with any excitin
   <img src="https://profile-counter.glitch.me/abdulrehmanbaig384/count.svg" alt="Visitor Count" />
 </p>
 
----
 
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,15,18,20&height=100&section=footer" width="100%" />
+</div>
