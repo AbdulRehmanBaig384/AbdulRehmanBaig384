@@ -141,11 +141,13 @@ markdown
 
 ## 💥 Top Projects:
 
-- *[Currency Converter](https://github.com/AbdulRehmanBaig384/Foreign-Exchange-Converter)* – A sleek and user-friendly web application that allows users to easily convert currencies in real-time. It fetches the latest exchange rates and provides a seamless conversion experience.
+- [ShopEasy Store](https://github.com/AbdulRehmanBaig384/ShopEase-Store) – A fully functional e-commerce website designed for seamless online shopping. It features product listings, a shopping cart, user authentication, and a modern UI for an enhanced user experience.
+
+- [Movie Data Analysis](https://github.com/AbdulRehmanBaig384/Movie-data-Analysis) – A comprehensive data science project analyzing a dataset of over 80,000 movies. It includes insights on trends, genres, revenue, and other key factors using Python, NumPy, and Pandas.
+
+- [Currency Converter](https://github.com/AbdulRehmanBaig384/Foreign-Exchange-Converter)* – A sleek and user-friendly web application that allows users to easily convert currencies in real-time. It fetches the latest exchange rates and provides a seamless conversion experience.
   
-- *[Positivus Website](https://github.com/AbdulRehmanBaig384/Positivus-Website)* – A modern and visually appealing website designed for Positivus, focusing on promoting positivity, mental well-being, and self-improvement through interactive features and content.
-  
-- *[Calculator](https://github.com/AbdulRehmanBaig384/Calculator)* – A responsive, intuitive calculator web app that supports basic mathematical operations. Built to be lightweight and functional, it features a clean interface for easy use.
+
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
