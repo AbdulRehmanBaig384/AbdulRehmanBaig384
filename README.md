@@ -183,9 +183,9 @@ markdown
 
 ## 🏆 Certifications:
 
-- *Full Stack Web Development with MERN* – Coursera
+- *Full Stack Web Development with MERN* – SMIT
 - *Data Science Specialization* – NED Academy
-- C++ Algorithms and Data Structures* – freeCodeCamp
+- C++ Algorithms and Data Structures* – APNA College
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
