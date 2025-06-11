@@ -176,27 +176,9 @@
 
 
 
-
-<p align="center">
-
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="50" height="50" style="border-radius:15px;"/>
-  </a>
-
-  <!-- Discord -->
-  <a href="https://discord.com/users/yourusername" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" alt="Discord" width="50" height="50" style="border-radius:15px;"/>
-  </a>
-
   <!-- GitHub -->
   <a href="https://github.com/yourusername" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="50" height="50" style="border-radius:15px;"/>
-  </a>
-
-  <!-- Gmail -->
-  <a href="mailto:youremail@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="50" height="50" style="border-radius:15px;"/>
   </a>
 
   <!-- Medium -->
