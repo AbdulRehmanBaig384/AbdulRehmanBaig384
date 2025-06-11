@@ -165,11 +165,6 @@
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" alt="Medium" width="50" height="50"/>
   </a>
 
-  <!-- Kaggle -->
-  <a href="https://kaggle.com/yourusername" target="_blank">
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/kaggle_logo_icon_168585.png" alt="Kaggle" width="50" height="50"/>
-  </a>
-</p>
 
 
 
@@ -187,11 +182,6 @@
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/yourusername" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="50" height="50" style="border-radius:15px;"/>
-  </a>
-
-  <!-- Instagram -->
-  <a href="https://instagram.com/yourusername" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="50" height="50" style="border-radius:15px;"/>
   </a>
 
   <!-- Discord -->
