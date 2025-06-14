@@ -101,22 +101,35 @@
 
 ---
 
+
 ## 📩 Contact Me
+
 <a href="https://linkedin.com/in/yourusername" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
 </a>
+
 <a href="https://github.com/yourusername" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
 </a>
-<a href="https://discordapp.com/users/yourid" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" alt="Discord" width="50" height="50"/>
+
+<a href="https://discord.com/users/yourid" target="_blank">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg" alt="Discord" width="50" height="50" style="background-color:#5865F2; padding:5px; border-radius:10px;"/>
 </a>
+
 <a href="https://medium.com/@yourusername" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" alt="Medium" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/medium.svg" alt="Medium" width="50" height="50" style="background-color:#00ab6c; padding:5px; border-radius:10px;"/>
 </a>
+
 <a href="https://kaggle.com/yourusername" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" alt="Kaggle" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="50" height="50"/>
 </a>
+
+<a href="https://twitter.com/yourusername" target="_blank">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitter.svg" alt="Twitter" width="50" height="50" style="background-color:#1DA1F2; padding:5px; border-radius:10px;"/>
+</a>
+
+
+
 
   
 ---
