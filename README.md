@@ -104,7 +104,7 @@
 
 ## 📩 Contact Me
 
-<a href="https://linkedin.com/in/yourusername" target="_blank">
+<a href="linkedin.com/in/abdul-rehman-baig-" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
 </a>
 
