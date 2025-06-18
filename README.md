@@ -117,7 +117,7 @@
 </a>
 
 
-<a href="https://medium.com/@yourusername" target="_blank">
+<a href="https://medium.com/@rehmanbaig456" target="_blank">
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/medium.svg" alt="Medium" width="50" height="50" style="background-color:#00ab6c; padding:5px; border-radius:10px;"/>
 </a>
 
