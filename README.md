@@ -130,20 +130,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="50" height="50"/>
 </a>
 
-  
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
