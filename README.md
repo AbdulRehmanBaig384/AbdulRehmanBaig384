@@ -12,15 +12,20 @@
 
 ---
 
-## 👨‍💻 About Me
+👨‍💻 About Me
+🔭 Currently mastering Data Structures & Algorithms (DSA) in C++
 
-- 🔭 Currently working on **Data Structures & Algorithms (DSA) in C++**
-- 🌱 Learning **MERN Stack | Data Science | Software Engineering**
-- 🤝 Open to collaborate on **Full Stack & Data Science Projects**
-- 💬 Ask me about **React, Node.js, C++, Python, DSA**
-- 📫 Reach me: [rehmanbaig456@gmail.com](mailto:rehmanbaig456@gmail.com)
-- ⚡ Fun Fact: I love solving complex real-world problems!
+🚀 Actively building advanced projects with Next.js, Prisma, and GraphQL
 
+🤖 Engineering intelligent solutions using Machine Learning and Data Science
+
+🤝 Open to collaboration on Full Stack, AI/ML, and GraphQL API projects
+
+💬 Ask me about Next.js, React.js, GraphQL, Node.js, Prisma, Python, C++, and ML
+
+📫 Reach me at: rehmanbaig456@gmail.com
+
+⚡ Fun Fact: I enjoy turning complex real-world problems into smart, scalable software!
 ---
 
 ## 🚀 Tech Stack
@@ -127,3 +132,18 @@
 
   
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
