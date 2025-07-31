@@ -26,6 +26,7 @@
 📫 Reach me at: rehmanbaig456@gmail.com
 
 ⚡ Fun Fact: I enjoy turning complex real-world problems into smart, scalable software!
+
 ---
 
 ## 🚀 Tech Stack
