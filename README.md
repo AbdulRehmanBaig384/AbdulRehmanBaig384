@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="Developer Banner" width="50%" />
+<img width="100%" height="100%" alt="image" src="https://github.com/user-attachments/assets/8c91c7b3-8f8d-4e94-a703-84c86b0d54b6" />
+
 </p>
 
 <h1 align="center">Hi 👋, I'm Abdul Rehman Baig</h1>
@@ -120,7 +121,6 @@
 <a href="https://discord.com/users/yourid" target="_blank">
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg" alt="Discord" width="50" height="50" style="background-color:#5865F2; padding:5px; border-radius:10px;"/>
 </a>
-
 
 <a href="https://medium.com/@rehmanbaig456" target="_blank">
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/medium.svg" alt="Medium" width="50" height="50" style="background-color:#00ab6c; padding:5px; border-radius:10px;"/>
