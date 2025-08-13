@@ -1,5 +1,5 @@
-
-<img width="100%" height="450vh" alt="image" src="https://github.com/user-attachments/assets/dd987f88-0e57-4046-97c7-35719c268dcb" />
+<p align='center'>
+<img width="100%" height="450vh" alt="image" src="https://github.com/user-attachments/assets/dd987f88-0e57-4046-97c7-35719c268dcb" /></p>
 
 <h1 align="center">Hi 👋, I'm Abdul Rehman Baig</h1>
 <h3 align="center">MERN Stack Developer | Data Scientist | C++ Enthusiast</h3>
