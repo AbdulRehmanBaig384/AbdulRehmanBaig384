@@ -57,7 +57,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="Numpy" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="50" height="50"/>
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="100" height="50"/>
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="50" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50" height="50"/>
 
 </p>
@@ -85,6 +85,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdulrehmanbaig384&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrehmanbaig384&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrehmanbaig384&layout=compact&theme=radical" />
+
 </p>
 
 ---
@@ -119,7 +121,7 @@
 
 ## 📩 Contact Me
 
-<a href="linkedin.com/in/abdul-rehman-baig-" target="_blank">
+<a href="https://linkedin.com/in/abdul-rehman-baig-" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
 </a>
 
@@ -135,7 +137,7 @@
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/medium.svg" alt="Medium" width="50" height="50" style="background-color:#00ab6c; padding:5px; border-radius:10px;"/>
 </a>
 
-<a href="https://kaggle.com/yourusername" target="_blank">
+<a href="https://www.kaggle.com/rehamanengineer" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="50" height="50"/>
 </a>
 
