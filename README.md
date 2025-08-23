@@ -97,6 +97,16 @@
 - Complete JavaScript Course — JavaScript Institution <br>
 
 ---
+## 🏅 Badges & Achievements  
+
+<p align="center">
+  <img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/7e2e5db0-58dd-49e2-88f2-0ac7f83c3b57" />
+  <img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/384d1b58-4321-4797-a557-06459c30dff5" />
+  <img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/01969b64-4cbc-4ed9-835d-0ffdf17c86fb" />
+
+</p>
+
+---
 
 ## 🔥 Featured Projects
 
