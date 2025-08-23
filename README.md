@@ -91,10 +91,10 @@
 
 ## 🏆 Certifications
 
-Full Stack Web Development with MERN — SMIT
-Data Science Specialization — NED Academy
-Python for Data Science — Kaggle
-Complete JavaScript Course — JavaScript Institution
+Full Stack Web Development with MERN — SMIT<br>
+Data Science Specialization — NED Academy<br>
+Python for Data Science — Kaggle<br>
+Complete JavaScript Course — JavaScript Institution <br>
 
 ---
 
