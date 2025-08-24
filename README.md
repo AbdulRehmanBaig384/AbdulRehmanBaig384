@@ -10,23 +10,25 @@
 
 ---
 
-👨‍💻 About Me
-🔭 Currently mastering Data Structures & Algorithms (DSA) in C++
-
-🚀 Actively building advanced projects with Next.js, Prisma, and GraphQL
-
-🤖 Engineering intelligent solutions using Machine Learning and Data Science
-
-🤝 Open to collaboration on Full Stack, AI/ML, and GraphQL API projects
-
-💬 Ask me about Next.js, React.js, GraphQL, Node.js, Prisma, Python, C++, and ML
-
-📫 Reach me at: rehmanbaig456@gmail.com
-
-⚡ Fun Fact: I enjoy turning complex real-world problems into smart, scalable software!
+<h3>👨‍💻 About Me </h3>
+🔭 Currently mastering Data Structures & Algorithms (DSA) in C++ <br>
+🚀 Actively building advanced projects with Next.js, Prisma, and GraphQL<br>
+🤖 Engineering intelligent solutions using Machine Learning and Data Science <br>
+🤝 Open to collaboration on Full Stack, AI/ML, and GraphQL API projects<br>
+💬 Ask me about Next.js, React.js, GraphQL, Node.js, Prisma, Python, C++, and ML<br>
+📫 Reach me at: rehmanbaig456@gmail.com<br>
+⚡ Fun Fact: I enjoy turning complex real-world problems into smart, scalable software!<br>
 
 ---
+🌟 What I Do
 
+- Full-Stack Web Development: Building responsive and scalable applications with MERN stack (MongoDB, Express.js, React, Node.js) and modern UI frameworks like Bootstrap.<br>
+- Data Science & AI: Exploring datasets, building ML models, and experimenting with automation and AI-powered solutions.<br>
+- Problem Solving with DSA: Practicing C++ algorithms & data structures to strengthen logic and efficiency.<br>
+- Projects & Innovation: Creating real-world projects such as Bank Management System, Library Management System, and interactive web apps with a strong focus on user experience.<br>
+- Continuous Learning: Passionate about mastering React.js, Firebase, and DevOps practices to stay ahead in the tech ecosystem.<br>
+
+---
 ## 🚀 Tech Stack
 
 ### 🖥 Languages
