@@ -20,7 +20,7 @@
 ⚡ Fun Fact: I enjoy turning complex real-world problems into smart, scalable software!<br>
 
 ---
-🌟 What I Do
+<h3>🌟 What I Do </h3>
 
 - Full-Stack Web Development: Building responsive and scalable applications with MERN stack (MongoDB, Express.js, React, Node.js) and modern UI frameworks like Bootstrap.<br>
 - Data Science & AI: Exploring datasets, building ML models, and experimenting with automation and AI-powered solutions.<br>
