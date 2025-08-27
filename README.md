@@ -11,8 +11,7 @@
 ---
 
 <h3>👨‍💻 About Me </h3>
- <img src='https://komarev.com/ghpvc/?username=AbdulRehmanBaig384&color=1DA1F2&style=flat'>
-
+<p> <img src='https://komarev.com/ghpvc/?username=AbdulRehmanBaig384&color=1DA1F2&style=flat'></p>
 🔭 Currently mastering Data Structures & Algorithms (DSA) in C++ <br>
 🚀 Actively building advanced projects with Next.js, Prisma, and GraphQL<br>
 🤖 Engineering intelligent solutions using Machine Learning and Data Science <br>
