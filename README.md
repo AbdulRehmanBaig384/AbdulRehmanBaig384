@@ -72,15 +72,6 @@ I’m a passionate developer combining skills in **MERN, Data Science, and C++ D
 
 ---
 
-## 🔥 Featured Projects  
-
-- [ShopEasy Store](https://github.com/AbdulRehmanBaig384/ShopEase-Store) → MERN E-commerce store  
-- [Movie Data Analysis](https://github.com/AbdulRehmanBaig384/Movie-data-Analysis) → Analysis on 80K+ movies  
-- [Currency Converter](https://github.com/AbdulRehmanBaig384/Foreign-Exchange-Converter) → Real-time conversion app  
-
----
-
-
 ## 💻 Let’s Connect  
 
 Got an idea to level up with tech? Let’s chat! 🚀  
