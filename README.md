@@ -92,17 +92,3 @@ I’m a passionate developer combining skills in **MERN, Data Science, and C++ D
   <a href="https://www.kaggle.com/rehamanengineer" target="_blank"><img src="https://skillicons.dev/icons?i=kaggle" /></a>
   <a href="https://discord.com/users/yourid" target="_blank"><img src="https://skillicons.dev/icons?i=discord" /></a>
 </p>
-
-
-
-
-
-
-
-
-
-
----
-
-### 🔧 Tools & DevOps  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
