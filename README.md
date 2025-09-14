@@ -91,7 +91,7 @@ Got an idea to level up with tech? Let’s chat! 🚀
 📫 Email: rehmanbaig456@gmail.com  
 🌐 Portfolio: in progress <br>
 🐦 X (Twitter): https://x.com/yourhandle  
-💼 LinkedIn:https://www.linkedin.com/in/abdul-rehman-baig-/
+💼 LinkedIn:https://www.linkedin.com/in/abdul-rehman-baig-/ <Br>
 🐙 GitHub:https://github.com/AbdulRehmanBaig384/
 
 ---
