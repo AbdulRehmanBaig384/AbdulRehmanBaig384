@@ -1,147 +1,137 @@
-<p align='center'>
-<img width="100%" height="450vh" alt="image" src="https://github.com/user-attachments/assets/dd987f88-0e57-4046-97c7-35719c268dcb" /></p>
+# Hey, I'm Abdul Rehman Baig! 🚀  
+### MERN Stack Developer | Data Scientist | C++ Enthusiast  
 
-<h1 align="center">Hi 👋, I'm Abdul Rehman Baig</h1>
-<h3 align="center">MERN Stack Developer | Data Scientist | C++ Enthusiast</h3>
+Helping businesses scale with **AI-powered solutions** and **full-stack web development**.  
+I’m a passionate developer combining skills in **MERN, Data Science, and C++ DSA** to build scalable apps, explore AI/ML, and engineer automation-driven solutions.  
+
+---
+
+## 👨‍💻 About Me  
+
+- 🔭 Currently mastering **Data Structures & Algorithms in C++**  
+- 🚀 Building advanced projects with **Next.js, Prisma, and GraphQL**  
+- 🤖 Exploring **Machine Learning & Data Science** for real-world problem solving  
+- 🤝 Open to collaborations on **Full-Stack, AI/ML, and GraphQL API projects**  
+- 💬 Ask me about **React.js, Next.js, Node.js, GraphQL, Python, C++ & ML**  
+- 📫 Reach me at: **rehmanbaig456@gmail.com**  
+- ⚡ Fun Fact: *I enjoy turning complex problems into smart, scalable software!*  
+
+---
+
+## 🌟 What I Do  
+
+- **Full-Stack Development** → End-to-end MERN apps (MongoDB, Express, React, Node.js) with scalable architecture.  
+- **Data Science & AI** → Analyzing datasets, building ML models, automating workflows.  
+- **Problem Solving** → Practicing C++ algorithms & data structures for logical efficiency.  
+- **Innovation & Projects** → Built systems like **Bank Management**, **Library Management**, and **E-commerce Stores**.  
+- **Continuous Learning** → Deep diving into **React.js, Firebase, GraphQL & DevOps**.  
+
+---
+
+## 🛠 Tech Stack  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&lines=Passionate+Developer;MERN+Stack+Engineer;Data+Science+Explorer;C%2B%2B+DSA+Lover" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,py,dart,react,nodejs,express,nextjs,redux,bootstrap,tailwind,flutter,mongodb,postgresql,firebase,graphql,git,github,postman,prisma,numpy,pandas,matplotlib,tensorflow" />
 </p>
 
 ---
 
-<h3>👨‍💻 About Me </h3>
-<p> <img src='https://komarev.com/ghpvc/?username=AbdulRehmanBaig384&color=1DA1F2&style=flat'></p>
-🔭 Currently mastering Data Structures & Algorithms (DSA) in C++ <br>
-🚀 Actively building advanced projects with Next.js, Prisma, and GraphQL<br>
-🤖 Engineering intelligent solutions using Machine Learning and Data Science <br>
-🤝 Open to collaboration on Full Stack, AI/ML, and GraphQL API projects<br>
-💬 Ask me about Next.js, React.js, GraphQL, Node.js, Prisma, Python, C++, and ML<br>
-📫 Reach me at: rehmanbaig456@gmail.com<br>
-⚡ Fun Fact: I enjoy turning complex real-world problems into smart, scalable software!<br>
-
----
-<h3>🌟 What I Do </h3>
-
-- Full-Stack Web Development: Building responsive and scalable applications with MERN stack (MongoDB, Express.js, React, Node.js) and modern UI frameworks like Bootstrap.<br>
-- Data Science & AI: Exploring datasets, building ML models, and experimenting with automation and AI-powered solutions.<br>
-- Problem Solving with DSA: Practicing C++ algorithms & data structures to strengthen logic and efficiency.<br>
-- Projects & Innovation: Creating real-world projects such as Bank Management System, Library Management System, and interactive web apps with a strong focus on user experience.<br>
-- Continuous Learning: Passionate about mastering React.js, Firebase, and DevOps practices to stay ahead in the tech ecosystem.<br>
-
----
-## 🚀 Tech Stack
-
-### 🖥 Languages
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="50" height="50"/>
-</p>
-
-### 🧰 Frameworks & Libraries
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50"/>
-
-</p>
-
-### 📊 Data Science & AI
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="Numpy" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="50" height="50"/>
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="150" height="1500"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="100" height="1500"/>
-
-</p>
-
-### 🛢 Databases & Cloud
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/>
-</p>
-
-### ⚙ DevOps & Tools
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="50" height="50"/>
-</p>
-
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulrehmanbaig384&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrehmanbaig384&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrehmanbaig384&layout=compact&theme=radical" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulRehmanBaig384&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulRehmanBaig384&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehmanBaig384&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## 🏆 Certifications
+## 🏆 Certifications  
 
-- Full Stack Web Development with MERN — SMIT<br>
-- Data Science Specialization — NED Academy<br>
-- Python for Data Science — Kaggle<br>
-- Complete JavaScript Course — JavaScript Institution <br>
+- Full Stack Web Development with MERN — **SMIT**  
+- Data Science Specialization — **NED Academy**  
+- Python for Data Science — **Kaggle**  
+- Complete JavaScript Course — **JavaScript Institution**  
 
 ---
-## 🏅 Badges & Achievements  
+
+## 🔥 Featured Projects  
+
+- [ShopEasy Store](https://github.com/AbdulRehmanBaig384/ShopEase-Store) → MERN E-commerce store  
+- [Movie Data Analysis](https://github.com/AbdulRehmanBaig384/Movie-data-Analysis) → Analysis on 80K+ movies  
+- [Currency Converter](https://github.com/AbdulRehmanBaig384/Foreign-Exchange-Converter) → Real-time conversion app  
+
+---
+
+## 📩 Connect with Me  
 
 <p align="center">
-  <img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/7e2e5db0-58dd-49e2-88f2-0ac7f83c3b57" />
-  <img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/384d1b58-4321-4797-a557-06459c30dff5" />
-  <img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/01969b64-4cbc-4ed9-835d-0ffdf17c86fb" />
-
+  <a href="https://linkedin.com/in/abdul-rehman-baig-" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://github.com/AbdulRehmanBaig384" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://medium.com/@rehmanbaig456" target="_blank"><img src="https://skillicons.dev/icons?i=medium" /></a>
+  <a href="https://www.kaggle.com/rehamanengineer" target="_blank"><img src="https://skillicons.dev/icons?i=kaggle" /></a>
+  <a href="https://discord.com/users/yourid" target="_blank"><img src="https://skillicons.dev/icons?i=discord" /></a>
 </p>
 
----
-
-## 🔥 Featured Projects
-
-- [ShopEasy Store](https://github.com/AbdulRehmanBaig384/ShopEase-Store) — E-commerce store built with MERN.
-- [Movie Data Analysis](https://github.com/AbdulRehmanBaig384/Movie-data-Analysis) — Data analysis on 80,000+ movies using Python.
-- [Currency Converter](https://github.com/AbdulRehmanBaig384/Foreign-Exchange-Converter) — Real-time currency conversion app.
-
----
 
 
-## 📩 Contact Me
 
-<a href="https://linkedin.com/in/abdul-rehman-baig-" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
-</a>
 
-<a href="https://github.com/AbdulRehmanBaig384" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
-</a>
 
-<a href="https://discord.com/users/yourid" target="_blank">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg" alt="Discord" width="50" height="50" style="background-color:#5865F2; padding:5px; border-radius:10px;"/>
-</a>
 
-<a href="https://medium.com/@rehmanbaig456" target="_blank">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/medium.svg" alt="Medium" width="50" height="50" style="background-color:#00ab6c; padding:5px; border-radius:10px;"/>
-</a>
 
-<a href="https://www.kaggle.com/rehamanengineer" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="50" height="50"/>
-</a>
+
+
+
+
+
+
+
+
+
+## 🚀 Tech Stack  
+
+### 🌐 Frontend  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
 ---
+
+### ⚙️ Backend  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)  
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)  
+
+---
+
+### 🗄️ Database  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+
+---
+
+### 📱 Mobile Development  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
+
+---
+
+### 🧑‍💻 Programming Languages  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+
+---
+
+### 🔬 Data Science / ML  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+
+---
+
+### 🔧 Tools & DevOps  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
