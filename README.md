@@ -83,12 +83,24 @@ I’m a passionate developer combining skills in **MERN, Data Science, and C++ D
 
 ---
 
-## 📩 Connect with Me  
 
-<p align="center">
-  <a href="https://linkedin.com/in/abdul-rehman-baig-" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://github.com/AbdulRehmanBaig384" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://medium.com/@rehmanbaig456" target="_blank"><img src="https://skillicons.dev/icons?i=medium" /></a>
-  <a href="https://www.kaggle.com/rehamanengineer" target="_blank"><img src="https://skillicons.dev/icons?i=kaggle" /></a>
-  <a href="https://discord.com/users/yourid" target="_blank"><img src="https://skillicons.dev/icons?i=discord" /></a>
-</p>
+## 💻 Let’s Connect  
+
+Got an idea to level up with tech? Let’s chat! 🚀  
+
+📫 Email: rehmanbaig456@gmail.com  
+🌐 Portfolio: in progress <br>
+🐦 X (Twitter): https://x.com/yourhandle  
+💼 LinkedIn:https://www.linkedin.com/in/abdul-rehman-baig-/
+🐙 GitHub:https://github.com/AbdulRehmanBaig384/
+
+---
+
+## 📜 Contributing  
+
+Want to collaborate? Fork my repos and send a Pull Request:  
+
+```bash
+git checkout -b feature/your-awesome-idea
+git commit -m 'Add something epic'
+git push origin feature/your-awesome-idea
