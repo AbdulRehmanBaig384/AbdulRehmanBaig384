@@ -64,6 +64,13 @@ I’m a passionate developer combining skills in **MERN, Data Science, and C++ D
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbdulRehmanBaig384&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehmanBaig384&layout=compact&theme=radical)
 
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulRehmanBaig384&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulRehmanBaig384&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehmanBaig384&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 ---
 
 ## 🏆 Certifications  
