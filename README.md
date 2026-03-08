@@ -1,10 +1,10 @@
  
 <img width="2496" height="690" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/36e8b549-5682-401c-b0dd-f8eaa41024a7" />
 <br/>
+<br/>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Data+Science+Enthusiast;AI%2FML+Explorer;Full+Stack+Web+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=C770F0&center=true&vCenter=true&width=700&lines=Software+Engineer+at+UBIT;Full+Stack+MERN+Developer;Data+Science+Explorer;C%2B%2B+DSA+Problem+Solver;AI+%26+Machine+Learning+Enthusiast;Building+Scalable+Web+Applications" />
 </p>
-
 
 ---
 
