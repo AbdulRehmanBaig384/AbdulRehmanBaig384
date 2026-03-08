@@ -1,8 +1,9 @@
-# Hey, I'm Abdul Rehman Baig! 🚀  
-### MERN Stack Developer | Data Scientist | C++ Enthusiast  
-
+ 
+<img width="2496" height="690" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/36e8b549-5682-401c-b0dd-f8eaa41024a7" />
+<br/>
 Helping businesses scale with **AI-powered solutions** and **full-stack web development**.  
-I’m a passionate developer combining skills in **MERN, Data Science, and C++ DSA** to build scalable apps, explore AI/ML, and engineer automation-driven solutions.  
+I’m a passionate developer combining skills in **MERN, Data Science, and DSA** to build scalable apps, explore AI/ML, and engineer automation-driven solutions.  
+
 
 ---
 
@@ -16,6 +17,8 @@ I’m a passionate developer combining skills in **MERN, Data Science, and C++ D
 - 📫 Reach me at: **rehmanbaig456@gmail.com**  
 - ⚡ Fun Fact: *I enjoy turning complex problems into smart, scalable software!*  
 
+
+
 ---
 
 ## 🌟 What I Do  
@@ -27,6 +30,25 @@ I’m a passionate developer combining skills in **MERN, Data Science, and C++ D
 - **Continuous Learning** → Deep diving into **React.js, Firebase, GraphQL & DevOps**.  
 
 ---
+
+## 💼 Professional Experience
+
+### 📱 React Native Developer — HZTech
+📍 Onsite — Pakistan  
+📅 Present  
+
+**Role Overview**  
+Working as a React Native Developer at **HZTech**, contributing to the development of modern cross-platform mobile applications. I collaborate with the development team to build scalable, efficient, and high-performance mobile solutions.
+
+**Key Responsibilities**
+
+- Developed **cross-platform mobile applications** using **React Native**.
+- Built **reusable and scalable UI components** to maintain clean architecture.
+- Integrated **RESTful APIs** and handled asynchronous data operations.
+- Implemented **responsive and modern mobile UI/UX**.
+- Optimized **application performance and component rendering**.
+- Collaborated with team members using **Git and GitHub** for version control.
+- Debugged and fixed issues to ensure **application stability and performance**.
 
 ## 🚀 Tech Stack  
 
