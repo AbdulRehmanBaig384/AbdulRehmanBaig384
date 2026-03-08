@@ -1,8 +1,9 @@
  
 <img width="2496" height="690" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/36e8b549-5682-401c-b0dd-f8eaa41024a7" />
 <br/>
-Helping businesses scale with **AI-powered solutions** and **full-stack web development**.  
-I’m a passionate developer combining skills in **MERN, Data Science, and DSA** to build scalable apps, explore AI/ML, and engineer automation-driven solutions.  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Data+Science+Enthusiast;AI%2FML+Explorer;Full+Stack+Web+Developer" />
+</p>
 
 
 ---
@@ -16,8 +17,6 @@ I’m a passionate developer combining skills in **MERN, Data Science, and DSA**
 - 💬 Ask me about **React.js, Next.js, Node.js, GraphQL, Python, C++ & ML**  
 - 📫 Reach me at: **rehmanbaig456@gmail.com**  
 - ⚡ Fun Fact: *I enjoy turning complex problems into smart, scalable software!*  
-
-
 
 ---
 
