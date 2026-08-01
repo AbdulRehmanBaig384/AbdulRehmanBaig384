@@ -96,8 +96,6 @@ Working as a React Native Developer at **HZTech**, contributing to the developme
 
 ---
 
----
-
 ## 💼 Available for Remote Work
 
 I'm currently available for **remote opportunities** and enjoy collaborating with startups, agencies, and businesses worldwide.
