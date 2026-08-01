@@ -96,6 +96,33 @@ Working as a React Native Developer at **HZTech**, contributing to the developme
 
 ---
 
+---
+
+## 💼 Available for Remote Work
+
+I'm currently available for **remote opportunities** and enjoy collaborating with startups, agencies, and businesses worldwide.
+
+### 🚀 Services I Offer
+
+- 🌐 Full-Stack Web Application Development (MERN Stack)
+- ⚛️ React.js & Next.js Development
+- 📱 Cross-Platform Mobile App Development (React Native & Flutter)
+- 🔗 REST API & GraphQL Integration
+- 🗄️ Database Design (MongoDB, PostgreSQL, Prisma)
+- 🔧 Bug Fixing, Performance Optimization & Code Refactoring
+- 🤖 AI Integration & Workflow Automation
+- ☁️ Deployment, Maintenance & Technical Support
+
+### 🌍 Open To
+
+- ✅ Remote Full-Time Opportunities
+- ✅ Part-Time Projects
+- ✅ Freelance Development
+- ✅ Long-Term Collaborations
+- ✅ Startup & SaaS Projects
+
+📩 **Let's build something amazing together!** Feel free to reach out via email or LinkedIn.
+
 ## 💻 Let’s Connect  
 
 Got an idea to level up with tech? Let’s chat! 🚀  
