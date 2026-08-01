@@ -104,22 +104,22 @@ I'm currently available for **remote opportunities** and enjoy collaborating wit
 
 ### 🚀 Services I Offer
 
-- 🌐 Full-Stack Web Application Development (MERN Stack)
-- ⚛️ React.js & Next.js Development
-- 📱 Cross-Platform Mobile App Development (React Native & Flutter)
-- 🔗 REST API & GraphQL Integration
-- 🗄️ Database Design (MongoDB, PostgreSQL, Prisma)
-- 🔧 Bug Fixing, Performance Optimization & Code Refactoring
-- 🤖 AI Integration & Workflow Automation
-- ☁️ Deployment, Maintenance & Technical Support
+-  Full-Stack Web Application Development (MERN Stack)
+-  React.js & Next.js Development
+-  Cross-Platform Mobile App Development (React Native & Flutter)
+-  REST API & GraphQL Integration
+-  Database Design (MongoDB, PostgreSQL, Prisma)
+-  Bug Fixing, Performance Optimization & Code Refactoring
+-  AI Integration & Workflow Automation
+-  Deployment, Maintenance & Technical Support
 
 ### 🌍 Open To
 
-- ✅ Remote Full-Time Opportunities
-- ✅ Part-Time Projects
-- ✅ Freelance Development
-- ✅ Long-Term Collaborations
-- ✅ Startup & SaaS Projects
+-  Remote Full-Time Opportunities
+-  Part-Time Projects
+-  Freelance Development
+-  Long-Term Collaborations
+-  Startup & SaaS Projects
 
 📩 **Let's build something amazing together!** Feel free to reach out via email or LinkedIn.
 
