@@ -52,22 +52,28 @@ Worked as a Frontend Developer at **Elevo Pathways**, developing and maintaining
 
 **Tech Stack:** React.js, JavaScript, HTML, CSS, Bootstrap, Tailwind CSS, Git/GitHub
 
-### 📱 React Native Developer — HZTech
+### 💻 Full Stack Developer — HZTech
+
 📍 Onsite — Pakistan  
-📅 Present  
+📅 Present
 
 **Role Overview**  
-Working as a React Native Developer at **HZTech**, contributing to the development of modern cross-platform mobile applications. I collaborate with the development team to build scalable, efficient, and high-performance mobile solutions.
+Working as a Full Stack Developer at **HZTech**, contributing to the development of modern web and mobile applications. I work across both frontend and backend technologies, building scalable applications and collaborating with the development team on real-world projects.
 
 **Key Responsibilities**
 
-- Developed **cross-platform mobile applications** using **React Native**.
-- Built **reusable and scalable UI components** to maintain clean architecture.
-- Integrated **RESTful APIs** and handled asynchronous data operations.
-- Implemented **responsive and modern mobile UI/UX**.
-- Optimized **application performance and component rendering**.
-- Collaborated with team members using **Git and GitHub** for version control.
-- Debugged and fixed issues to ensure **application stability and performance**.
+- Developed modern and responsive web applications using **React.js** and **Next.js**.
+- Built cross-platform mobile applications using **React Native**.
+- Developed and integrated **RESTful APIs** using **Node.js** and **Express.js**.
+- Designed and managed databases using **MongoDB** and **PostgreSQL**.
+- Built reusable, scalable, and maintainable frontend components.
+- Implemented authentication, API integration, and application business logic.
+- Optimized application performance and improved user experience.
+- Debugged and resolved frontend and backend issues to ensure application stability.
+- Collaborated with developers using **Git and GitHub** for version control and team development.
+- Participated in the development and maintenance of real-world software projects.
+
+**Tech Stack:** React.js, Next.js, React Native, Node.js, Express.js, MongoDB, PostgreSQL, JavaScript, TypeScript, Git/GitHub
 
 ## 🚀 Tech Stack  
 
