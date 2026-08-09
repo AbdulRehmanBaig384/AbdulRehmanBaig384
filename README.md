@@ -139,4 +139,4 @@ Want to collaborate? Fork my repos and send a Pull Request:
 ```bash
 git checkout -b feature/your-awesome-idea
 git commit -m 'Add something epic'
-git push origin feature/your-awesome-idea
+git push origin feature/your-awesome-id
