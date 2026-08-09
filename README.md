@@ -32,6 +32,26 @@
 
 ## 💼 Professional Experience
 
+### 🌐 Frontend Developer — Elevо Pathways
+
+📍 Remote — Cairo, Egypt  
+📅 Aug 2025 – Oct 2025 · 3 months
+
+**Role Overview**  
+Worked as a Frontend Developer at **Elevo Pathways**, developing and maintaining responsive web interfaces and contributing to real-world frontend projects.
+
+**Key Responsibilities**
+
+- Developed responsive and user-friendly web interfaces using **HTML, CSS, JavaScript, Bootstrap, and React.js**.
+- Built reusable and maintainable **React.js components** for modern web applications.
+- Implemented responsive layouts to ensure a consistent experience across different screen sizes.
+- Collaborated with the development team on **real-world projects** and frontend features.
+- Implemented frontend functionality, UI components, and application logic.
+- Used **Git/GitHub** for version control and collaborative development.
+- Debugged and resolved frontend issues to improve application performance and usability.
+
+**Tech Stack:** React.js, JavaScript, HTML, CSS, Bootstrap, Tailwind CSS, Git/GitHub
+
 ### 📱 React Native Developer — HZTech
 📍 Onsite — Pakistan  
 📅 Present  
